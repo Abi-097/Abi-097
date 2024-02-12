@@ -1,6 +1,11 @@
+<!-- <img alt="Banner" width="450" height="20%" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif"> -->
+
+<img alt="Banner" width="1100" height="auto" src="https://cdna.artstation.com/p/assets/images/images/025/539/460/large/natalie-crabtree-droid-close-up.jpg?1586122180">
+
 <h1 align="center">Hey 👋, I'm Abishek Mahenderaraja</h1>
-<!-- <h3 align="center">A passionate Frontend Developer</h3> -->
+ <h3 align="center">A passionate Full-Stack Developer</h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi-097&label=Profile%20views&color=0e75b6&style=flat" alt="abi-097" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
 - 🌱 I’m currently learning `React Native`
 
@@ -21,7 +26,7 @@
 <a href="https://instagram.com/abi__1203_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abi__1203_" height="30" width="40" /></a> -->
 
 <a href="https://linkedin.com/in/abishek-mahenderaraja-188286169" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="mailto:example@example.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="mailto:abimahen0312@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 <a href="https://instagram.com/abi__1203_" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </p>
 
